@@ -1,3 +1,5 @@
+amogus
+
 # mergeconflictopdracht
 
 ## doelen:
